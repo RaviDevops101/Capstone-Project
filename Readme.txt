@@ -1,7 +1,2 @@
-hi
-<<<<<<< HEAD
-how r you
-
-=======
-add
->>>>>>> dev
+hi hellow 
+this is for testing dev trigger
