@@ -1,7 +1,1 @@
-hi
-<<<<<<< HEAD
-how r you
-
-=======
-add
->>>>>>> dev
+this file is to test dev auto trigger
