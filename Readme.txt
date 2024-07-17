@@ -1,1 +1,1 @@
-TESTING AUTO TRIGGER FOR JENKINS
+testing dev branch trigger auto push to docker
